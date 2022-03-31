@@ -1,0 +1,16 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.chat-sidebar {
+    flex: 1;
+    height: 100vh;
+    position: sticky;
+    top: 50px;
+    left: 0;
+    text-align: center;
+    transition: all 0.5s ease;
+    color: green;
+    font-size: 2rem;
+    background-color: white;
+}
